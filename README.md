@@ -16,13 +16,17 @@ Here are some ideas to get you started:
 
 I'm Bon (alias: pewriebontal).
 
-- 🔭 I’m currently working on 42 cursus.
+- 🔭 I’m currently working on 42's Cursus.
 - 🌱 I’m currently learning C.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him (hardcore)
 - 📫 How to reach me: [e-mail](mailto:0x@bontal.net) / [Keybase](https://keybase.io/pewriebontal) / [Web](https://bontal.net/msg)
 - ⚡ Fun fact: I'm a full-time daydreamer, programming for fun.
 
-
+&nbsp;<div align="center">
+  ### 🎧 I'm currently listening to...
+  [![Spotify](https://drprls.bontal.net/api/spotify?background_color=0d1117&border_color=bbbbbb)](https://open.spotify.com/user/h9o65sjkmkrh2awusq2t8e6vi)
+</div>
+</br>
 
 <div align="center">
   
