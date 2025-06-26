@@ -1,27 +1,29 @@
 ### Ayo, KAI here!
 
-I hack on code, build systems from scratch, wrangling Unix because life's too short for point-and-click garbage.
+I hack on code, build systems from scratch, and ship stuff that actually works—usually by wrangling Unix because life's too short for point-and-click garbage.
 
-- 🔭 Grinding through 42's Core Curriculum - diving deep into C where the real magic happens, not that abstracted high-level nonsense
+- 🔭 Grinding through 42's Core Curriculum - diving deep into C where the real magic happens, not that abstracted high-level nonsense.
 - 😄 Pronouns: he/him (hardcore)
-- 🎓 Splitting my brain between Newcastle Australia's IT program and 42SUTD's Computer Science - because one degree isn't enough punishment and sleep is overrated anyway
-- ⚡ Full-time daydreamer, part-time ["DJ"](https://img.bontal.net/p/0), and occasional [blogger](https://blog.bontal.net) when I need a break from memory management
-- 🎞️ Low-key obsessed with dystopian sci-fi flicks - because the real world isn't bleak enough already
+- 🎓 Splitting my brain between Newcastle's IT program and 42SUTD's Computer Science - because one degree isn't enough punishment and sleep is overrated anyway.
+- ⚡ Full-time daydreamer, part-time ["DJ"](https://img.bontal.net/p/0), and occasional [blogger](https://blog.bontal.net) when I need a break from memory management.
+- 🎞️ Low-key obsessed with dystopian sci-fi flicks - because the real world isn't bleak enough already.
 
 ### Stuff I've Built That Actually Works
 
-- **Hiraku**: AI learning assistant that doesn't suck - processes docs, uses vector search, and actually finds what you need without hallucinating garbage
-- **BYAMC**: My own C standard library because why use something that works when you can build it yourself? Memory management is my therapy
-- **bjsh**: A Unix shell that doesn't just echo commands - handles processes like a boss and doesn't crash (usually)
-- **Byte's Escape**: 2D game built from scratch in C - no fancy engines, just raw code and pain. DFS for map validation because I hate myself apparently
+- **[Catalyst](https://catalyst.bontal.net):** A to-do app for lazy people. You type, AI figures it out. Built in Flutter, local-first, no forms, no friction.
+- **[NLEX](https://nlex.bontal.net):** A shell that lets you talk to your terminal. Written in Go, it turns plain English into shell commands so you stop Googling `sed` syntax.
+- **Where's my Classroom?:** Fixed my university's broken timetable because scattered PDFs are a crime. A Flutter app that sorts out the mess and works offline.
+- **[bjsh](https://github.com/pewriebontal/bjsh):** A Unix shell built from scratch in C that doesn't just echo commands—it handles processes like a boss and doesn't crash (usually).
+- **[BYAMC](https://github.com/pewriebontal/byamc):** My own C standard library because why use something that works when you can build it yourself? Memory management is my therapy.
+- **Byte's Escape**: 2D game built from scratch in C—no fancy engines, just raw code and pain. DFS for map validation because I hate myself apparently.
 
 ### Tech I Use Because It Gets The Job Done
 
-- **Languages**: C is home, but I'll sling Java, JavaScript, Python, Dart when needed (or when someone's paying me to)
-- **Operating Systems**: Linux when I want things to work, Windows when I need to suffer
-- **Tools**: Git, Makefiles, and sometimes Vim - because IDEs are for the weak (kidding, I use JetBrains stuff too because I'm not insane)
+- **Languages**: **C** and **Go** for systems & backend. **Dart/Flutter** for making apps. **Python** and **TypeScript** when I have to. The right tool for the job.
+- **Operating Systems**: Linux when I want things to work, Windows when I need to suffer.
+- **Tools**: Git, Makefiles, and sometimes Vim - because IDEs are for the weak (kidding, I use JetBrains stuff too because I'm not insane).
 
-&nbsp;<div align="center">
+ <div align="center">
 
 ### 🎧 Currently vibing to...
 
@@ -36,9 +38,10 @@ I hack on code, build systems from scratch, wrangling Unix because life's too sh
   [![GitHub Sponsors](https://img.shields.io/github/sponsors/pewriebontal?label=GH%20sponsors&style=flat-square)](https://github.com/sponsors/pewriebontal)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
@@ -48,7 +51,7 @@ I hack on code, build systems from scratch, wrangling Unix because life's too sh
 
 </div>
 
-### Find me in the digital wasteland
+### Find me in the wasteland
 
 <div align="center">
 
