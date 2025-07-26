@@ -2,7 +2,7 @@
 
 I hack on code, build systems from scratch, and ship stuff that actually works—usually by wrangling Unix because life's too short for point-and-click garbage.
 
-- 🔭 Grinding through 42's Core Curriculum - diving deep into C where the real magic happens, not that abstracted high-level nonsense.
+- 🔭 Grinding through 42's Curriculum - diving deep into C where the real magic happens, not that abstracted high-level nonsense.
 - 😄 Pronouns: he/him (hardcore)
 - 🎓 Splitting my brain between Newcastle's IT program and 42SUTD's Computer Science - because one degree isn't enough punishment and sleep is overrated anyway.
 - ⚡ Full-time daydreamer, part-time ["DJ"](https://img.bontal.net/p/0), and occasional [blogger](https://blog.bontal.net) when I need a break from memory management.
