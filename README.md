@@ -1,21 +1,26 @@
 ### Ayo, KAI here!
 
-I hack on code, build systems from scratch, and ship stuff that actually works—usually by wrangling Unix because life's too short for point-and-click garbage.
+I write code, build systems from the ground up, and create tools that solve real (cough) problems. I spend my days mastering Unix (ricing my distro) because I’d rather type than click.
 
-- 🔭 Grinding through 42's Curriculum - diving deep into C where the real magic happens, not that abstracted high-level nonsense.
-- 😄 Pronouns: he/him (hardcore)
-- 🎓 Splitting my brain between Newcastle's IT program and 42SUTD's Computer Science - because one degree isn't enough punishment and sleep is overrated anyway.
-- ⚡ Full-time daydreamer, part-time ["DJ"](https://img.bontal.net/p/0), and occasional [blogger](https://blog.bontal.net) when I need a break from memory management.
-- 🎞️ Low-key obsessed with dystopian sci-fi flicks - because the real world isn't bleak enough already.
+- Working through 42's Curriculum, focusing on C.
+- Pronouns: he/him (hardcore)
+- Splitting my brain between Newcastle's IT program and 42SUTD's Computer Science - because one degree isn't enough punishment and sleep is overrated anyway.
+- Full-time daydreamer, part-time ["DJ"](https://img.bontal.net/p/0), and occasional [blogger](https://blog.bontal.net) when I need a break from memory management.
+- Fan of dystopian sci-fi films, perfect for when reality feels too tame.
 
-### Stuff I've Built That Actually Works
+### Projects I've Built
 
 - **[Catalyst](https://catalyst.bontal.net):** A to-do app for lazy people. You type, AI figures it out. Built in Flutter, local-first, no forms, no friction.
 - **[NLEX](https://nlex.bontal.net):** A shell that lets you talk to your terminal. Written in Go, it turns plain English into shell commands so you stop Googling `sed` syntax.
 - **Where's my Classroom?:** Fixed my university's broken timetable because scattered PDFs are a crime. A Flutter app that sorts out the mess and works offline.
 - **[bjsh](https://github.com/pewriebontal/bjsh):** A Unix shell built from scratch in C that doesn't just echo commands—it handles processes like a boss and doesn't crash (usually).
 - **[BYAMC](https://github.com/pewriebontal/byamc):** My own C standard library because why use something that works when you can build it yourself? Memory management is my therapy.
-- **Byte's Escape**: 2D game built from scratch in C—no fancy engines, just raw code and pain. DFS for map validation because I hate myself apparently.
+- **Byte's Escape**: 2D game built from scratch in C, no fancy engines, just raw C code and pain because I hate myself apparently.
+
+
+### Infrastructure
+
+- **[BitTorrent Tracker](https://bt.bontal.net):** My public BitTorrent tracker and Monitoring tool because why not? go get it on the website and put it in your torrent client's tracker list. And don't forget to seed!
 
 ### Tech I Use Because It Gets The Job Done
 
@@ -71,7 +76,7 @@ I hack on code, build systems from scratch, and ship stuff that actually works�
         <li>GPU: NVIDIA® Geforce RTX™ 3050 4GB (handles visualization just fine, occasional gaming when I need a break from segfaults)</li>
         <li>RAM: 16GB LPDDR5 (wish it was 32GB but we can't have everything)</li>
         <li>SSD: 1TB NVMe (fast enough that waiting for compiles is almost bearable)</li>
-        <li>OS: Windows 11 + WSL2 with Arch Linux (because dual booting is so 2010)</li>
+        <li>OS: OpenSUSE Tumbleweed Dualboot with Windows 11.</li>
     </ul>
 </details>
 
