@@ -32,7 +32,7 @@ I write code, build systems from the ground up, and create tools that solve real
 
 ### 🎧 Currently vibing to...
 
-[![Spotify](https://drprls.bontal.net/api/spotify?background_color=0d1117&border_color=bbbbbb)](https://open.spotify.com/user/h9o65sjkmkrh2awusq2t8e6vi)
+[![Spotify](https://drprls.api.bontal.net/api/spotify?background_color=0d1117&border_color=bbbbbb)](https://open.spotify.com/user/h9o65sjkmkrh2awusq2t8e6vi)
 
 </div>
 </br>
